@@ -1,0 +1,21 @@
+{
+  "name": "2025573010029-algoritma-struktur-data",
+  "version": "1.0.0",
+  "description": "struktur data &amp; algoritma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tini67837-sys/2025573010029-Algoritma-struktur-data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tini67837-sys/2025573010029-Algoritma-struktur-data/issues"
+  },
+  "homepage": "https://github.com/tini67837-sys/2025573010029-Algoritma-struktur-data#readme"
+}
